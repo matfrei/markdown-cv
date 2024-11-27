@@ -1,91 +1,109 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Matthias Anton Freiberger's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
 
-<div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
-</div>
+# Matthias Anton Freiberger
+**Adres**: Eikenlaan 8, 8810 Lichtervelde, België  
+**Telefoon**: +32 483 27 65 18  
+**E-mail**: [m.freiberger@gmail.com](mailto:m.freiberger@gmail.com)  
+**Google Scholar**: [Scholar Profiel](https://scholar.google.com/citations?user=qkPbhlUAAAAJ)  
+**LinkedIn**: [LinkedIn Profiel](https://www.linkedin.com/in/matthias-freiberger-a1377b7b/)  
 
+---
 
-## Currently
+## Professioneel Profiel
+Data scientist en AI-onderzoeker met meer dan 10 jaar ervaring in machine learning, computer vision en softwareontwikkeling. Expertise in het ontwikkelen van robuuste AI-modellen, dynamische systemen en mentoring van studenten en doctorandi. Sterke achtergrond in softwareontwikkeling met ervaring in het bouwen van schaalbare systemen en het werken met grote datasets. Op zoek naar een rol waar ik mijn technische vaardigheden en probleemoplossend vermogen kan inzetten om innovatie in de gezondheidszorg te bevorderen.
 
-Standing on the shoulders of giants
+---
 
-### Specialized in
+## Technische Vaardigheden
+- **Programmeertalen**: Python, C, C++, C#  
+- **Machine Learning Frameworks**: PyTorch, Scikit-learn, TensorFlow, Caffe 
+- **ETL frameworks**: Pandas, LINQ   
+- **Databasemanagement**: mySQL, PostGreSQL  
+- **Expertisegebieden**: computer vision, AI-robuustheid, simulatie en modellering  
+- **Talen**: Duits (moedertaal), Engels (vloeiend), Nederlands (conversatievaardig)
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+---
 
+## Professionele Ervaring
 
-### Research interests
+### Postdoctoraal Onderzoeker  
+**IT University of Copenhagen / Copenhagen University**  
+*09/2022 - 10/2024*  
+- Onderzoek naar AI-robuustheid binnen het VILLUM Synergy ArtNet-project, gericht op het verbeteren van modelprestaties onder veranderende omgevingen en adversariële inputs.  
+- Bijgedragen aan procedurele contentgeneratie met behulp van large language models (MarioGPT).  
+- Gebruik van AI voor het interactief verkennen van digitale beeldcollecties (SMKExplore).  
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+### Postdoctoraal Onderzoeker  
+**Universiteit Gent**  
+*07/2020 - 06/2022*  
+- Onderzoek naar biologisch geïnspireerde methoden voor het verbeteren van beeldherkenning in convolutionele neurale netwerken (CNN).  
+- Beheer van projectdeliverables als proposal manager voor het icon.cREAtIvE-project (VLAIO, €2,91 miljoen total).  
+- Begeleiding van vijf doctorandi en meerdere masterstudenten.  
+- Co-docent voor mastervakken Machine Learning en Deep Learning (120–140 studenten).  
 
+### Ph.D. onderzoeker  
+**Universiteit Gent**  
+*03/2016 - 07/2020*  
+- Onderzoek naar nieuwe manieren van brain-inspired computing in de kader van Horizon2020-PHRESCO.  
+- Ontwikkelde datasets en organiseerde jaarlijkse Kaggle-competities als onderdeel van de mastercursus Machine Learning.  
 
-## Education
+### Softwareontwikkelaar  
+**Thonhauser Data Engineering**  
+*09/2012 - 04/2014*  
+- Ontwikkeling van *ProNova*, een softwarepakket voor het beheer van datacycli in offshore boorplatforms, met behulp van C#, LINQ en MySQL.  
+- Remote agile team (Scrum), diverse taken van data-acquisitie tot visualisatie.  
 
-`1654-1660`
-__The King's School, Grantham.__
+### Softwareontwikkelaar  
+**Joanneum Research Institute for Digital Image Processing and Mobile Computing**  
+*08/2009 - 04/2010*  
+- Ontwikkeling van algoritmen voor de verwerking en opslag van grote hoeveelheden geodata op mobiele apparaten met beperkte geheugen- en verwerkingscapaciteit.  
+- Ontwerp van een Java ME-applicatie voor GPS-tracking en een PHP-serverimplementatie met PostGreSQL backend voor datavisualisatie.  
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+### Softwareontwikkelaar (Freelancer)  
+**NXP Semiconductors**  
+*09/2007 - 07/2009*  
+- Ontwikkeling van libraries en demotools voor de MIFARE-productlijn (contactloze smartcards) met behulp van C, C++ en C#.  
+- Bijgedragen aan tools voor producten zoals MIFARE Plus, MIFARE Ultralight C en SmartMX.  
+---
 
-- Sizar
+## Geselecteerde Projecten
 
-`1667 - death`
-__Trinity College, Cambridge__
+### AI-robuustheid in Computer Vision  
+- Ontwikkelde technieken om de robuustheid van AI-modellen te verbeteren in uitdagende omgevingen.  
 
-- Fellow
+### Voorspellende Modellen voor Ingebedde AI  
+- Onderzoek naar filter pruning in embedded convolutionele objectdetectoren, toegepast op verkeerscamera's van FLIR-Teledyne.  
 
+### Procedurele Contentgeneratie  
+- Gebruik van large language models voor het genereren van interactieve inhoud en het verbeteren van gebruikerservaringen.  
 
+---
 
-## Awards
+## Opleiding
 
-`2012`
-President, *Royal Society*, London, UK
+### PhD in Computer Science Engineering  
+**Universiteit Gent, België**  
+*03/2016 - 06/2020*  
+*Thesis*: Scaling up integrated photonic reservoirs towards low-power high-bandwith computations  
 
-Associate, *French Academy of Science*, Paris, France
+### Master in Information and Computer Engineering  
+**Technische Universiteit van Graz, Oostenrijk**  
+*04/2011 - 01/2016*  
+*Thesis*: Training Activation Functions in Deep Neural Networks  
 
+---
 
+## Prijzen & Onderscheidingen
 
-## Publications
+- **Data Science Bowl 2017**: 9e plaats van 1900 teams bij het detecteren van longkanker met deep learning (UNets + transfer learning). [Details](https://medium.com/kaggle-blog/data-science-bowl-2017-predicting-lung-cancer-solution-write-up-team-deep-breath-4fee2f5b4768).  
 
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
+---
 
-### Journals
+## Onderwijs & Begeleiding
 
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
-
-
-<!-- ### Footer
-
-Last updated: May 2013 -->
-
-
+- **Co-docent, Deep Learning** - Universiteit Gent (02/2022 - 06/2022)  
+- **Assistent, Machine Learning** - Universiteit Gent (09/2016 - 02/2022)  
+- Begeleiding van promovendi en masterstudenten in machine learning en data-analyse.  
