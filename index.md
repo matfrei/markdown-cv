@@ -5,8 +5,7 @@ title: Matthias Anton Freiberger's CV
 
 # Matthias Anton Freiberger
 **Adres**: Eikenlaan 8, 8810 Lichtervelde, België  
-**Telefoon**: +32 483 27 65 18  
-**E-mail**: [m.freiberger@gmail.com](mailto:m.freiberger@gmail.com)  
+**E-mail**: [m.freiberger+cv-nl@gmail.com](mailto:m.freiberger+cv-nl@gmail.com)  
 **Google Scholar**: [Scholar Profiel](https://scholar.google.com/citations?user=qkPbhlUAAAAJ)  
 **LinkedIn**: [LinkedIn Profiel](https://www.linkedin.com/in/matthias-freiberger-a1377b7b/)  
 
@@ -67,6 +66,7 @@ Data scientist en AI-onderzoeker met meer dan 10 jaar ervaring in machine learni
 *09/2007 - 07/2009*  
 - Ontwikkeling van libraries en demotools voor de MIFARE-productlijn (contactloze smartcards) met behulp van C, C++ en C#.  
 - Bijgedragen aan tools voor producten zoals MIFARE Plus, MIFARE Ultralight C en SmartMX.  
+
 ---
 
 ## Geselecteerde Projecten
