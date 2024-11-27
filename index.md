@@ -4,9 +4,8 @@ title: Matthias Anton Freiberger's CV
 ---
 
 # Matthias Anton Freiberger
-**Adres**: Eikenlaan 8, 8810 Lichtervelde, België  
-**Telefoon**: +32 483 27 65 18  
-**E-mail**: [m.freiberger@gmail.com](mailto:m.freiberger@gmail.com)  
+**Adres**: Eikenlaan 8, 8810 Lichtervelde, België   
+**E-mail**: [m.freiberger+github.io@gmail.com](mailto:m.freiberger+github.io@gmail.com)  
 **Google Scholar**: [Scholar Profiel](https://scholar.google.com/citations?user=qkPbhlUAAAAJ)  
 **LinkedIn**: [LinkedIn Profiel](https://www.linkedin.com/in/matthias-freiberger-a1377b7b/)  
 
