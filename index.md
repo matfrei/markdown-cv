@@ -3,107 +3,108 @@ layout: cv
 title: Matthias Anton Freiberger's CV
 ---
 
-# Matthias Anton Freiberger
-**Adres**: Eikenlaan 8, 8810 Lichtervelde, België  
-**E-mail**: [m.freiberger+cv-nl@gmail.com](mailto:m.freiberger+cv-nl@gmail.com)  
-**Google Scholar**: [Scholar Profiel](https://scholar.google.com/citations?user=qkPbhlUAAAAJ)  
-**LinkedIn**: [LinkedIn Profiel](https://www.linkedin.com/in/matthias-freiberger-a1377b7b/)  
+# Matthias Freiberger
+
+<div style="text-align: center; margin-top: 20px;">
+  <p>Eikenlaan 8, 8810 Lichtervelde, Belgium</p>
+  <p>+32 483 27 65 18</p>
+  <p>
+    <a href="mailto:m.freiberger@gmail.com">m.freiberger@gmail.com</a> | 
+    <a href="https://www.linkedin.com/in/matthias-freiberger-a1377b7b/">LinkedIn</a> | 
+    <a href="https://scholar.google.com/citations?user=qkPbhlUAAAAJ">Google Scholar</a>
+  </p>
+</div>
+
 
 ---
 
-## Professioneel Profiel
-Data scientist en AI-onderzoeker met meer dan 10 jaar ervaring in machine learning, computer vision en softwareontwikkeling. Expertise in het ontwikkelen van robuuste AI-modellen, dynamische systemen en mentoring van studenten en doctorandi. Sterke achtergrond in softwareontwikkeling met ervaring in het bouwen van schaalbare systemen en het werken met grote datasets. Op zoek naar een rol waar ik mijn technische vaardigheden en probleemoplossend vermogen kan inzetten om innovatie in de gezondheidszorg te bevorderen.
+## Professional Profile
+Machine learning and AI researcher with 10 years of experience specializing in computer vision and biologically inspired robust neural networks, complemented by 5 years in software development.  Experienced in developing innovative AI solutions, mentoring junior colleagues, and collaborating across interdisciplinary teams. Passionate contributor to AI research with a commitment to democratizing AI.
 
 ---
 
-## Technische Vaardigheden
-- **Programmeertalen**: Python, C, C++, C#  
-- **Machine Learning Frameworks**: PyTorch, Scikit-learn, TensorFlow, Caffe 
-- **ETL frameworks**: Pandas, LINQ   
-- **Databasemanagement**: mySQL, PostGreSQL  
-- **Expertisegebieden**: computer vision, AI-robuustheid, simulatie en modellering  
-- **Talen**: Duits (moedertaal), Engels (vloeiend), Nederlands (conversatievaardig)
+## Selected Projects
+
+### LayerShuffle 
+**Robustness in Vision Transformers.** Enhanced robustness in vision transformers through randomized layer execution, enabling arbitrary execution sequences and layer pruning without retraining. [paper](https://arxiv.org/abs/2407.04513),[code](https://github.com/matfrei/layershuffle)
+
+### CLIPMasterPrints  
+**Adversarial Attacks in Contrastively Pre-trained Models.** Developed an adversarial master attack on CLIP-trained models, identifying a vulnerability caused by text-image modality gaps. [paper](https://arxiv.org/abs/2307.03798),[code](https://github.com/matfrei/CLIPMasterPrints)
+
+### MarioGPT  
+**Procedural Content Generation in Video Games.** Pioneered the use of large language models for open-ended text-to-level generation in video games, resulting in a playability rate of 88% for generated levels. [paper](https://arxiv.org/pdf/2302.05981),[code](https://github.com/shyamsn97/mario-gpt)
+
+### Lung Cancer Prediction
+**Third Annual Data Science Bowl on Kaggle.com**: Ranked 9th among 1900 teams detecting malignant lung nodules in CT scans using 3D UNets and transfer learning.[blogpost](https://medium.com/kaggle-blog/data-science-bowl-2017-predicting-lung-cancer-solution-write-up-team-deep-breath-4fee2f5b4768),[code](https://github.com/EliasVansteenkiste/dsb3)
+
 
 ---
 
-## Professionele Ervaring
+## Skills
+- **Programming Languages**: Python, C, C++, C#
+- **Deep Learning Frameworks**: PyTorch, transformers, TensorFlow, Caffe
+- **MLOps/HPC**: Docker, Slurm, IBM LSF
+- **Interests**: Robust and scalable AI, democratic AI, adversarial robustness
+- **Languages**: German (native), English (fluent), Dutch (conversational)
 
-### Postdoctoraal Onderzoeker  
+---
+
+
+## Professional Experience
+
+### Postdoctoral Researcher  
 **IT University of Copenhagen / Copenhagen University**  
 *09/2022 - 10/2024*  
-- Onderzoek naar AI-robuustheid binnen het VILLUM Synergy ArtNet-project, gericht op het verbeteren van modelprestaties onder veranderende omgevingen en adversariële inputs.  
-- Bijgedragen aan procedurele contentgeneratie met behulp van large language models (MarioGPT).  
-- Gebruik van AI voor het interactief verkennen van digitale beeldcollecties (SMKExplore).  
+- Interdiscipinary research project on AI robustness (VILLUM Synergy ArtNet), focusing on resilience to environmental changes and adversarial input.
+- Developed adversarial attacks for contrastive models, pioneered procedural content generation using large language models and explored AI as a tool in interactive digital image collections.
 
-### Postdoctoraal Onderzoeker  
-**Universiteit Gent**  
+### Postdoctoral Researcher  
+**Ghent University**  
 *07/2020 - 06/2022*  
-- Onderzoek naar biologisch geïnspireerde methoden voor het verbeteren van beeldherkenning in convolutionele neurale netwerken (CNN).  
-- Beheer van projectdeliverables als proposal manager voor het icon.cREAtIvE-project (VLAIO, €2,91 miljoen total).  
-- Begeleiding van vijf doctorandi en meerdere masterstudenten.  
-- Co-docent voor mastervakken Machine Learning en Deep Learning (120–140 studenten).  
+- Advanced methods to improve CNN image recognition on edge devices; mentored five PhD researchers and several master’s students.
+- Co-lecturer for Machine Learning and Deep Learning master courses (120–140 students).
 
-### Ph.D. onderzoeker  
-**Universiteit Gent**  
+### Proposal Manager  
+**imec**  
+*07/2020 - 03/2021*  
+- €2.91M Reconfigurable Embedded AI project icon.cREAtIvE, coordinated project deliverables and conducted research on filter pruning in embedded convolutional object detectors for FLIR-Teledyne traffic cameras.
+
+### Predoctoral Researcher  
+**Ghent University**  
 *03/2016 - 07/2020*  
-- Onderzoek naar nieuwe manieren van brain-inspired computing in de kader van Horizon2020-PHRESCO.  
-- Ontwikkelde datasets en organiseerde jaarlijkse Kaggle-competities als onderdeel van de mastercursus Machine Learning.  
+- Explored brain-inspired techniques for high-speed optical computing, leading to advancements in photonic reservoir computing as part of the Horizon2020-PHRESCO project.
+- Created datasets and organized yearly Kaggle competitions for Machine Learning master course with yearly approximately 120 students.
 
-### Softwareontwikkelaar  
+### Software Developer  
 **Thonhauser Data Engineering**  
 *09/2012 - 04/2014*  
-- Ontwikkeling van *ProNova*, een softwarepakket voor het beheer van datacycli in offshore boorplatforms, met behulp van C#, LINQ en MySQL.  
-- Remote agile team (Scrum), diverse taken van data-acquisitie tot visualisatie.  
+- Part of an agile development team, developing software for large-scale acquisition, transfer, and processing of offshore rig drilling data.
+- Contributed to the development of ProNova, a software suite used for data visualization and processing with technologies such as C#, LINQ, and MySQL.
 
-### Softwareontwikkelaar  
-**Joanneum Research Institute for Digital Image Processing and Mobile Computing**  
+### Software Developer  
+**Joanneum Research**  
 *08/2009 - 04/2010*  
-- Ontwikkeling van algoritmen voor de verwerking en opslag van grote hoeveelheden geodata op mobiele apparaten met beperkte geheugen- en verwerkingscapaciteit.  
-- Ontwerp van een Java ME-applicatie voor GPS-tracking en een PHP-serverimplementatie met PostGreSQL backend voor datavisualisatie.  
+- Developed heuristics for acquisition, processing, and storage of geodata for GPS-tracking applications on low-power mobile devices.
+- Built a Java ME application and server-side implementation to handle geodata and visualize it through a simple JavaScript frontend.
 
-### Softwareontwikkelaar (Freelancer)  
-**NXP Semiconductors**  
+### Software Developer  
+**NXP Semiconductors, Gratkorn**  
 *09/2007 - 07/2009*  
-- Ontwikkeling van libraries en demotools voor de MIFARE-productlijn (contactloze smartcards) met behulp van C, C++ en C#.  
-- Bijgedragen aan tools voor producten zoals MIFARE Plus, MIFARE Ultralight C en SmartMX.  
+- Involved in the development of support libraries and demo tools for MIFARE product line of contactless smart cards.
+- Wrote software and documentation for MIFARE Plus, MIFARE Ultralight C, and SMART MX products using C, C++, and C#.
 
 ---
 
-## Geselecteerde Projecten
+## Education
 
-### AI-robuustheid in Computer Vision  
-- Ontwikkelde technieken om de robuustheid van AI-modellen te verbeteren in uitdagende omgevingen.  
-
-### Voorspellende Modellen voor Ingebedde AI  
-- Onderzoek naar filter pruning in embedded convolutionele objectdetectoren, toegepast op verkeerscamera's van FLIR-Teledyne.  
-
-### Procedurele Contentgeneratie  
-- Gebruik van large language models voor het genereren van interactieve inhoud en het verbeteren van gebruikerservaringen.  
-
----
-
-## Opleiding
-
-### PhD in Computer Science Engineering  
-**Universiteit Gent, België**  
+### PhD
+**Computer Science Engineering, Ghent University, Belgium**  
 *03/2016 - 06/2020*  
-*Thesis*: Scaling up integrated photonic reservoirs towards low-power high-bandwith computations  
+*Dissertation*: Scaling up Integrated Photonic Reservoirs towards Low-Power High-Bandwidth Computing
 
-### Master in Information and Computer Engineering  
-**Technische Universiteit van Graz, Oostenrijk**  
+### Master’s 
+**Information and Computer Engineering, Graz University of Technology, Austria**  
 *04/2011 - 01/2016*  
-*Thesis*: Training Activation Functions in Deep Neural Networks  
+*Thesis*: Training Activation Functions in Deep Neural Networks
 
 ---
-
-## Prijzen & Onderscheidingen
-
-- **Data Science Bowl 2017**: 9e plaats van 1900 teams bij het detecteren van longkanker met deep learning (UNets + transfer learning). [Details](https://medium.com/kaggle-blog/data-science-bowl-2017-predicting-lung-cancer-solution-write-up-team-deep-breath-4fee2f5b4768).  
-
----
-
-## Onderwijs & Begeleiding
-
-- **Co-docent, Deep Learning** - Universiteit Gent (02/2022 - 06/2022)  
-- **Assistent, Machine Learning** - Universiteit Gent (09/2016 - 02/2022)  
-- Begeleiding van promovendi en masterstudenten in machine learning en data-analyse.  
