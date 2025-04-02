@@ -43,6 +43,23 @@ AI researcher and software developer with more than a decade of experience. Inte
 
 ---
 
+## Selected Projects
+
+### LayerShuffle 
+**Towards Distributed Vision Transformers.** Enhanced robustness in vision transformers through randomized layer execution, enabling arbitrary execution sequences and layer pruning without retraining. The underlying aim is to distribute transformer models onto a fault-tolerant heterogeneous distributed system of agents.
+[[paper](https://arxiv.org/abs/2407.04513)][[code](https://github.com/matfrei/layershuffle)]
+
+### CLIPMasterPrints  
+**Adversarial Master Attacks for Contrastively Pre-trained Models.** Developed an adversarial master attack on CLIP-trained models using open-ended search in foundation model latent space, identifying a vulnerability caused by text-image modality gaps. [[paper](https://arxiv.org/abs/2307.03798)][[code](https://github.com/matfrei/CLIPMasterPrints)]
+
+### MarioGPT  
+**Open-ended Content Generation in Video Games.** Pioneered the use of large language models for open-ended text-to-level generation in video games, resulting in a playability rate of 88% for generated levels. [[paper](https://arxiv.org/pdf/2302.05981)][[code](https://github.com/shyamsn97/mario-gpt)]
+
+<div style="page-break-after: always"></div>
+
+---
+
+
 ## Professional Experience
 
 ### Research Scientist  
